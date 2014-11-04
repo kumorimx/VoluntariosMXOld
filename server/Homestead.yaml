@@ -1,0 +1,22 @@
+---
+ip: "192.168.10.10"
+memory: 1024
+cpus: 1
+
+authorize: C:/voluntariosmx/server/.ssh/id_rsa.pub
+
+keys:
+    - C:/voluntariosmx/server/.ssh/id_rsa
+
+folders:
+    - map: C:/voluntariosmx/code
+      to: /home/vagrant/source
+
+sites:
+    - map: lh.voluntarios.mx
+      to: /home/vagrant/source/public
+      hhvm: true
+
+variables:
+    - key: APP_ENV
+      value: local
