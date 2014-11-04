@@ -1,0 +1,26 @@
+#search-event{float:right;margin-left:10px;font-size:19px;border:none;padding:5px 5px;width:592px;margin-top:-4px}
+.tabbable-line > .nav-tabs > li{border-bottom:4px solid transparent}
+.flag-logros{width:22px}
+.no-display{display:none}
+.site-logo{margin-right:17px;}
+.site-logo img{-webkit-filter:grayscale(100%);width:60px;}
+.site-logo img:hover{-webkit-filter:grayscale(0)}
+.page-perfil{margin-top:-25px;clear:both;}
+.page-perfil .header-profile{height:417px;position:relative;}
+.page-perfil .header-profile .user-data{height:100px;position:absolute;bottom:0;background:#000;width:100%;opacity:.8;}
+.page-perfil .header-profile .user-data .avatar{position:absolute;left:30px;top:-45px;height:120px;width:120px;}
+.page-perfil .header-profile .user-data .avatar img{height:120px;width:120px}
+.page-perfil .header-profile .user-data h1.name{color:#c00909;position:absolute;left:180px;top:20px;font-size:31px;padding:0;margin:0;font-weight:bold}
+.page-perfil .header-profile .user-data .controls{position:absolute;left:180px;bottom:23px;text-transform:uppercase;font-size:12px;}
+.page-perfil .header-profile .user-data .controls a{color:#fff;margin-right:20px;}
+.page-perfil .header-profile .user-data .controls a:hover{text-decoration:none}
+.page-perfil .header-profile .user-data .stats{width:375px;position:absolute;top:20px;right:30px;height:65px;background:#ccc;opacity:1;}
+.page-perfil .header-profile .user-data .stats ul li{display:table-cell;width:1%;font-size:16px;text-align:center;padding-top:7px;font-weight:bold;}
+.page-perfil .header-profile .user-data .stats ul li span{display:block;color:#f50601;font-size:20px}
+.page-perfil .ul{padding:0;margin:0}
+.page-voluntario .nav-tabs{background:#f4f4f4}
+.page-voluntario .nav-tabs>li>a,.page-voluntario .nav-tabs>li>.active,.page-voluntario .nav-tabs>li>.active:hover,.page-voluntario .nav-tabs>li>.active a,.page-voluntario .nav-tabs>li>.active a:hover{margin-right:0;padding:13px 25px !important;font-size:16px}
+.page-voluntario .nav-tabs>li>a:hover{background:#e6400c;color:#fff;padding:13px 25px !important}
+.page-voluntario .logros-reconocimientos{padding:4px 10px 0 0;border-left:none;margin:25px 0;}
+.page-voluntario .logros-reconocimientos h2{margin:5px}
+.mr10{margin-right:10px}
